@@ -1,7 +1,7 @@
 #include "com_luoluo_pic_algorithm_StripAlgorithm.h"
 #define DISTANCE(a,b)(sqrt((a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y)))
 using namespace cv;
-
+//just write something
 
 int Hue_judgement(Mat input,Mat H_judge_binary_map){
 	
